@@ -1,0 +1,14 @@
+body{
+    background-color: darkslateblue;
+}
+
+h1{
+    color:fuchsia;
+}
+h1 span{
+    color: floralwhite;
+    text-transform: uppercase;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: medium;
+}
